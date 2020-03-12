@@ -14,22 +14,22 @@
     <h1 >
       作业系统
     </h1>
-      <a href="http://localhost:8081/searchallhomwork" >
+      <a href="/searchallhomwork" >
         <button >教师---作业列表</button>
       </a>
       <br/>
       <br/>
-      <a href="http://localhost:8081/searchstudent" >
+      <a href="/searchstudent" >
         <button>教师---学生列表</button>
       </a>
     <br/>
     <br/>
-      <a href="http://localhost:8081/searchteacherhomework" >
+      <a href="/searchteacherhomework" >
         <button>教师---发布作业</button>
       </a>
     <br/>
     <br/>
-    <a href="http://localhost:8081/handinhomework" >
+    <a href="/handinhomework" >
       <button>学生---提交作业</button>
     </a>
 
